@@ -1,11 +1,15 @@
 .card {
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-left: 20px;
-    margin-right: 20px;
-  }
-  
-  .text-center {
-    text-align: center;
-  }
-  
+  margin-top: 20px;
+  margin-bottom: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+body {
+  background-color: rgb(195, 253, 236);
+
+}
